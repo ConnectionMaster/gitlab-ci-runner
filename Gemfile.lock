@@ -16,7 +16,7 @@ GEM
       thor
     crack (0.3.2)
     diff-lcs (1.2.4)
-    ffi (1.8.1)
+    ffi (1.14.2)
     formatador (0.2.4)
     guard (1.8.0)
       formatador (>= 0.2.4)
